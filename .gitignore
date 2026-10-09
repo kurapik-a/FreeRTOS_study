@@ -1,0 +1,13 @@
+# Keil generated build files
+[Oo]bjects/
+[Ll]istings/
+*.uvguix.*
+*.build_log.htm
+*_build.log
+build_log.txt
+# Editor logs
+**/.vscode/*.log
+**/.vscode/*.lock
+# Device packs and Word documents
+*.pack
+*.docx
